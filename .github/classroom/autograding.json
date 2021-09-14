@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Hello World",
+      "setup": "",
+      "run": "python3 assignment1.py",
+      "input": "",
+      "output": "Hello World!",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Create assignment",
+      "setup": "",
+      "run": "python3 assignment2.py",
+      "input": "",
+      "output": "This is my second program.\r\nIt uses \"two commands\" to display the output.",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Line Break",
+      "setup": "",
+      "run": "python3 assignment3.py",
+      "input": "",
+      "output": "This is the first sentence.\r\nThis is the second sentence.",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Add Comments",
+      "setup": "",
+      "run": "python3 assignment4.py",
+      "input": "",
+      "output": "Hello!",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    }
+  ]
+}
