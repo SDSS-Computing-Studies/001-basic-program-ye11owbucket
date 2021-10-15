@@ -13,4 +13,4 @@ Note that this needs to be an exact match including case, punctuation
 and indentation.
 """
 
-print("This is the first sentence. \nThis is the second sentence.")
+print("This is the first sentence.\nThis is the second sentence.")
